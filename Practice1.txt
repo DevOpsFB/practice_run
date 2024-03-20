@@ -4,3 +4,4 @@ These are the changes to the practice1_branch
 This information should not be in the main branch yet. 
 I checked and there is nothing on the main branch. 
 I'm adding this to continue seeing the changes in the Insights - network graphic. 
+I want to keep adding more information as another commit. 
